@@ -4,7 +4,10 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
  */
 
- .TWAC_LogoWeb{
+.link {
+  text-decoration:none;
+}
+ .TWAC_LogoWeb {
    max-width: 12rem;
  }
 
@@ -78,10 +81,18 @@ header.masthead h1 {
   }
 }
 
+.main-text {
+  text-align: center;
+  padding-top: 6rem;
+  padding-bottom: 3rem;
+}
+
 .features-icons {
-  padding-top: 7rem;
+  padding-top: 3rem;
   padding-bottom: 7rem;
 }
+
+
 
 .features-icons .features-icons-item {
   max-width: 20rem;
