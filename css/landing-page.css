@@ -8,9 +8,13 @@
    max-width: 12rem;
  }
 
- #navbar-logo{
-     background-color: #000000;
+ #navbar-log{
+     background-color: #ffffff;
  }
+
+.bg-light {
+    background-color: #ffffff!important;
+}
 
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
