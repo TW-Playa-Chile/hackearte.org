@@ -4,6 +4,14 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
  */
 
+ .TWAC_LogoWeb{
+   max-width: 12rem;
+ }
+
+ #navbar-logo{
+     background-color: #000000;
+ }
+
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
